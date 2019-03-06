@@ -11,7 +11,6 @@ import random
 Label(root, text="Choose Rock, Paper, or Scissors.")
 Label.pack()
 
-#Create a random number
 RockLabel1= Label(root, text="Congratulations!, Computer chose: Scissors")
 RockLabel2= Label(root, text="Aww too bad!, Computer chose: Paper") 
 RockLabel3= Label(root, text="It's a draw!!, Computer chose: Rock") 
@@ -61,5 +60,5 @@ SelectScissors.pack()
       
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
-#Kick the code
+#Kickoff the code
 root.mainloop()
