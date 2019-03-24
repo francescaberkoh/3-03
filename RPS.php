@@ -1,3 +1,13 @@
+<?php
+/*
+Created on Mar 7, 2019
+Created for: ICS3U
+@author: Francesca Berkoh
+Daily Assignment - 3-03
+This program plays rock paper or scissors
+*/
+?
+
 
 <form action="" method="POST">
 <br><br>
