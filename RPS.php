@@ -6,7 +6,7 @@ Created for: ICS3U
 Daily Assignment - 3-03
 This program plays rock paper or scissors
 */
-?
+?>
 
 
 <form action="" method="POST">
