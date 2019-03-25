@@ -24,10 +24,10 @@ $scissorsbutton= $_POST['submitscissors'];
 if ($rockbutton){
     $computer= mt_rand(1,3);
     if ($computer == 1){
-        echo "Congrats!, Comupter chose: Paper";
+        echo "Congrats!, Comupter chose: Scissors";
     }
     if ($computer == 2){
-            echo "Aww too bad!, Computer chose: Sissors"; 
+            echo "Aww too bad!, Computer chose: Paper"; 
     }
     if ($computer == 3){
         echo "It's a draw!, Computer chose: Rock";
